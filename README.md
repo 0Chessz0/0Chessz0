@@ -2,8 +2,6 @@
 
 ### ⚡ Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=0Chessz0&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="0Chessz0's GitHub stats" />
-<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=0Chessz0&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
