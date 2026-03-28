@@ -6,20 +6,5 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/0Chessz0/Nova-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0Chessz0&repo=Nova-Bot&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/0Chessz0/Incremental-Discord-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0Chessz0&repo=Incremental-Discord-Bot&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/0Chessz0/0Chessz0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=0Chessz0&repo=0Chessz0&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
   <sub>Note: I'm 18.</sub>
 </p>
